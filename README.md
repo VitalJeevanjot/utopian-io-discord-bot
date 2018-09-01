@@ -1,6 +1,6 @@
 Utopian-io bot
 - Download the zip file
-- inside project repo run `npm init` to install dependencies from project.json
+- inside project repo run `npm install` to install dependencies from project.json
 - Create **config.json** file in root directory and put this JSON and enter values according to you.
 ```
 {
