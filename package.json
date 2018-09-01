@@ -1,0 +1,12 @@
+{
+  "name": "greeter-bot",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "Jeevanjot-Singh",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "steem": "^0.7.1"
+  }
+}
